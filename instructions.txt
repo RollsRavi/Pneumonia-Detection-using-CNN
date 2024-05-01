@@ -1,0 +1,9 @@
+1. Download dataset from kaggle.com
+  link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+2. install all the requirements packages which is in requirements folder.
+	command - pip install -r requirements.txt
+3. Train the model using python
+4. To run the app on localhost run python app.py
+5. app is running at http://127.0.0.1:5002
+6. open Chrome and type http://127.0.0.1:5002
+7. Now, the project webpage will be displayed.
